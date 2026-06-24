@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";n.A=function(t,n){if("string"==typeof n&&!(0,r.isPrefixedValue)(n)&&-1!==n.indexOf("cross-fade("))return u.map(function(t){return n.replace(e,t+"cross-fade(")})};var r=i(60824),e=/cross-fade\(/g,u=["-webkit-",""]}

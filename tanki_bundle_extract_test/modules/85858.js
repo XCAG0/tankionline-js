@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/translations/en-US.fd7e5d7e.json"}

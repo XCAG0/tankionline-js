@@ -1,0 +1,1 @@
+()=>{if(new URLSearchParams(window.location.search),"serviceWorker"in navigator)window.addEventListener("load",()=>{navigator.serviceWorker.register("./service-worker.js").then(t=>{console.log("SW registered: ",t)}).catch(t=>{console.log("SW registration failed: ",t)})});else{const t=document.querySelectorAll('[rel="manifest"]')[0];void 0!==t&&t.remove()}}

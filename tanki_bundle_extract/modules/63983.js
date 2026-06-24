@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/images/lightweight_ordnance_autoloader.db3c43fc.svg"}

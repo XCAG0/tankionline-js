@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/machinegun_empty_shell.cc2d7e2c.3ds"}

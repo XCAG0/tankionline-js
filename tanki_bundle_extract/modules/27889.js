@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/sound/legendary.0bab25ea.mp3"}

@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/videos/standard_light.6170e3b4.webm"}

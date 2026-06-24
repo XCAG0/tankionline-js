@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/images/battle_pick_classic_mode.5dc581ba.webp"}

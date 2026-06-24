@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/textdata/en_ru_es_fr_de_pl_pt_sdf.3cddf9ec.txt"}

@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";i.r(n),i.d(n,{default:()=>o});var r=/[A-Z]/g,e=/^ms-/,u={};function s(t){return"-"+t.toLowerCase()}const o=function(t){if(u.hasOwnProperty(t))return u[t];var n=t.replace(r,s);return u[t]=e.test(n)?"-"+n:n}}

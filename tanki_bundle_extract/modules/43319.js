@@ -1,0 +1,1 @@
+(t,n)=>{"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(t){return t.charAt(0).toUpperCase()+t.slice(1)}}

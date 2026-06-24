@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/artillery_shell.ebdc414e.3ds"}

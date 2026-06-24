@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/images/TwinsPlasmaTurboAccelerators.9a195099.svg"}

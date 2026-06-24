@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/textdata/open_sans_latin.87a74077.txt"}

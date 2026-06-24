@@ -1,0 +1,1 @@
+(t,n,i)=>{"use strict";t.exports=i.p+"static/images/title_bg_defeat.8ae31a66.webp"}

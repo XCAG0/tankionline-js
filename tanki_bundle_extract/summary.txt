@@ -1,0 +1,90 @@
+Tanki Bundle Extraction Summary
+================================
+bundle: tanki_main.js
+module_count: 1307
+
+kind_counts:
+  - app-core: 2
+  - asset: 1209
+  - code: 38
+  - protocol-heavy: 21
+  - runtime: 37
+
+interesting modules:
+  - id=37504 kind=protocol-heavy bytes=65931 deps=4 nested=0 keywords=protocol, modelRegistry, Codec, Space
+  - id=89803 kind=protocol-heavy bytes=50821 deps=7 nested=0 keywords=protocol, modelRegistry, Codec, battle
+  - id=31908 kind=protocol-heavy bytes=46368 deps=5 nested=0 keywords=protocol, modelRegistry, Codec, battle
+  - id=25377 kind=protocol-heavy bytes=33951 deps=7 nested=0 keywords=protocol, modelRegistry, Codec, battle
+  - id=54199 kind=protocol-heavy bytes=24205 deps=5 nested=0 keywords=protocol, modelRegistry, Codec, battle
+  - id=85196 kind=protocol-heavy bytes=140060 deps=7 nested=0 keywords=protocol, modelRegistry, Codec
+  - id=10283 kind=protocol-heavy bytes=57639 deps=6 nested=0 keywords=protocol, modelRegistry, Codec
+  - id=85667 kind=protocol-heavy bytes=48041 deps=5 nested=0 keywords=protocol, modelRegistry, Codec
+  - id=88693 kind=protocol-heavy bytes=20814 deps=4 nested=0 keywords=protocol, modelRegistry, Codec
+  - id=1510 kind=protocol-heavy bytes=18520 deps=4 nested=0 keywords=protocol, modelRegistry, Codec
+  - id=16100 kind=protocol-heavy bytes=35146 deps=3 nested=0 keywords=protocol, spawn
+  - id=99527 kind=protocol-heavy bytes=6329 deps=4 nested=0 keywords=protocol, modelRegistry
+  - id=29554 kind=protocol-heavy bytes=5861 deps=5 nested=0 keywords=protocol, Codec
+  - id=67222 kind=protocol-heavy bytes=4712 deps=4 nested=0 keywords=protocol, modelRegistry
+  - id=45555 kind=protocol-heavy bytes=128481 deps=2 nested=0 keywords=Space
+  - id=13431 kind=protocol-heavy bytes=24955 deps=59 nested=0 keywords=protocol
+  - id=57128 kind=protocol-heavy bytes=15723 deps=50 nested=0 keywords=battle
+  - id=24635 kind=protocol-heavy bytes=15092 deps=4 nested=0 keywords=Codec
+  - id=40293 kind=protocol-heavy bytes=12440 deps=2 nested=0 keywords=Space
+  - id=41164 kind=protocol-heavy bytes=5286 deps=4 nested=0 keywords=battle
+  - id=85745 kind=protocol-heavy bytes=2103 deps=3 nested=0 keywords=protocol
+  - id=85183 kind=app-core bytes=668043 deps=8 nested=0 keywords=protocol, modelRegistry, Codec, MachineGun, TrackedChassis, battle, spawn, TankState
+  - id=47243 kind=app-core bytes=306974 deps=12 nested=0 keywords=protocol, modelRegistry, Codec, battle
+  - id=87072 kind=runtime bytes=2078530 deps=26 nested=0 keywords=ClientTank, MachineGun, TrackedChassis, Physics, battle, spawn, Space, startFire, TankState
+  - id=61860 kind=runtime bytes=40762 deps=8 nested=0 keywords=protocol, modelRegistry, Codec, battle, Space
+  - id=45686 kind=runtime bytes=7503 deps=6 nested=0 keywords=protocol, modelRegistry, Codec, Space
+  - id=82347 kind=runtime bytes=2642343 deps=250 nested=0 keywords=battle, Space
+  - id=92980 kind=runtime bytes=489161 deps=6 nested=0 keywords=battle, Space
+  - id=71105 kind=runtime bytes=195827 deps=16 nested=0 keywords=protocol, Space
+  - id=18334 kind=runtime bytes=162768 deps=28 nested=0 keywords=modelRegistry, battle
+  - id=52943 kind=runtime bytes=77955 deps=17 nested=0 keywords=protocol, Space
+  - id=10032 kind=runtime bytes=791924 deps=25 nested=0 keywords=battle
+  - id=21300 kind=runtime bytes=172053 deps=39 nested=0 keywords=battle
+  - id=70130 kind=runtime bytes=163856 deps=19 nested=0 keywords=battle
+  - id=63383 kind=runtime bytes=90200 deps=1 nested=0 keywords=Space
+  - id=30285 kind=runtime bytes=70553 deps=3 nested=0 keywords=protocol
+  - id=77249 kind=runtime bytes=7638 deps=7 nested=0 keywords=Orientation
+  - id=44740 kind=runtime bytes=2091 deps=1 nested=0 keywords=protocol
+  - id=37036 kind=runtime bytes=177793 deps=0 nested=0 keywords=-
+  - id=3569 kind=runtime bytes=76382 deps=8 nested=0 keywords=-
+  - id=9539 kind=runtime bytes=76183 deps=1 nested=0 keywords=-
+  - id=61430 kind=runtime bytes=63872 deps=2 nested=0 keywords=-
+  - id=61378 kind=runtime bytes=49619 deps=8 nested=0 keywords=-
+  - id=97675 kind=runtime bytes=49385 deps=5 nested=0 keywords=-
+  - id=89613 kind=runtime bytes=49084 deps=2 nested=0 keywords=-
+  - id=9345 kind=runtime bytes=31874 deps=4 nested=0 keywords=-
+  - id=29518 kind=runtime bytes=30520 deps=1 nested=0 keywords=-
+  - id=89679 kind=runtime bytes=23882 deps=8 nested=0 keywords=-
+  - id=59131 kind=runtime bytes=23051 deps=1 nested=0 keywords=-
+  - id=94965 kind=runtime bytes=21947 deps=0 nested=0 keywords=-
+  - id=36734 kind=runtime bytes=21393 deps=5 nested=0 keywords=-
+  - id=24923 kind=runtime bytes=19462 deps=9 nested=0 keywords=-
+  - id=14766 kind=runtime bytes=14814 deps=0 nested=0 keywords=-
+  - id=10849 kind=runtime bytes=12167 deps=4 nested=0 keywords=-
+  - id=1901 kind=runtime bytes=7481 deps=3 nested=0 keywords=-
+  - id=60824 kind=runtime bytes=3234 deps=2 nested=0 keywords=-
+  - id=80397 kind=runtime bytes=584 deps=2 nested=0 keywords=-
+  - id=7793 kind=runtime bytes=229 deps=0 nested=0 keywords=-
+  - id=55920 kind=runtime bytes=207 deps=0 nested=0 keywords=-
+  - id=17323 kind=runtime bytes=119 deps=0 nested=0 keywords=-
+  - id=7156 kind=asset bytes=97 deps=0 nested=0 keywords=battle
+  - id=2621 kind=asset bytes=96 deps=0 nested=0 keywords=battle
+  - id=45063 kind=asset bytes=96 deps=0 nested=0 keywords=battle
+  - id=45006 kind=asset bytes=94 deps=0 nested=0 keywords=battle
+  - id=76702 kind=asset bytes=93 deps=0 nested=0 keywords=battle
+  - id=31190 kind=asset bytes=92 deps=0 nested=0 keywords=battle
+  - id=86460 kind=asset bytes=92 deps=0 nested=0 keywords=battle
+  - id=1067 kind=asset bytes=90 deps=0 nested=0 keywords=battle
+  - id=57992 kind=asset bytes=90 deps=0 nested=0 keywords=battle
+  - id=58552 kind=asset bytes=90 deps=0 nested=0 keywords=battle
+  - id=73495 kind=asset bytes=90 deps=0 nested=0 keywords=battle
+  - id=34485 kind=asset bytes=88 deps=0 nested=0 keywords=battle
+  - id=47883 kind=asset bytes=87 deps=0 nested=0 keywords=battle
+  - id=22134 kind=asset bytes=86 deps=0 nested=0 keywords=battle
+  - id=40305 kind=asset bytes=79 deps=0 nested=0 keywords=battle
+  - id=48681 kind=asset bytes=79 deps=0 nested=0 keywords=battle
+  - id=12052 kind=asset bytes=78 deps=0 nested=0 keywords=battle

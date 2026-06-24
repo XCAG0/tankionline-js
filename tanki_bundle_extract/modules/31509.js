@@ -1,0 +1,1 @@
+(t,n)=>{"use strict";n.A=function(t,n){if(r.hasOwnProperty(t)&&e.hasOwnProperty(n))return i.map(function(t){return t+n})};var i=["-webkit-","-moz-",""],r={maxHeight:!0,maxWidth:!0,width:!0,height:!0,columnWidth:!0,minWidth:!0,minHeight:!0},e={"min-content":!0,"max-content":!0,"fill-available":!0,"fit-content":!0,"contain-floats":!0}}
